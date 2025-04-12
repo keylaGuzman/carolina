@@ -23,7 +23,7 @@ class Vehiculo:
 
 
 if __name__ == "__main__":
-    objVehiculo1 = Vehiculo("Lamborghini", "Huracán", "Negra", "GRE2588", 2019, tipo_de_puerta="Tijera",
+    objVehiculo1 = Vehiculo("kia", "rio", "Negra", "GRE2588", 2019, tipo_de_puerta="Tijera",
     combustible="Gasolina", kilometraje="Cero kilometro", caja_de_cambio="Automatico", seguro="Contra todo daños", gama="Alta",
     chasis="Mediano", pais_de_origen="USA", llanta_de_emergencia="Si", numero_de_puertas="4")
     print("marca:",objVehiculo1.marca)
